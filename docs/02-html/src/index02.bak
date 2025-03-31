@@ -1,19 +1,18 @@
 <!DOCTYPE html>
-<html>
-
-  <head>
+<html lang="en">
+<head>
     <title>Welcome to my Virtual Terrarium</title>
     <meta>
-    <link rel="stylesheet" href="">
+    <link>
     <script></script>
-  </head>
-
-  <body>
+</head>
+<body>
     <h1>My Terrarium</h1>
-    <div>
-      <div>
 
-      </div>
+    <div>
+        <div>
+
+        </div>
     </div>
-  </body>
+</body>
 </html>
